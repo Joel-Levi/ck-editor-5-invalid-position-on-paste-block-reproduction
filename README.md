@@ -9,9 +9,9 @@
 ]
 
 2. Paste html looking like:
-<img><br><img>
+```<img><br><img>```
 or
-<img>CK<img>
+```<img>CK<img>```
 
 Expected:
 HTML gets pasted
